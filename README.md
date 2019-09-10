@@ -9,6 +9,7 @@ Microbiome Data Analysis and Nephele Demo
 2. Test input files
 #### Fastq files in pairs: 
 <ftp://helix.nih.gov/pub/mqbcbb/nepheleFQ/>
+
 Please know that this folder will be available only temporarily from this FTP location.  
 #### Mapping file: 
 <ftp://helix.nih.gov/pub/mqbcbb/N2_16S_mapping.xlsx>
