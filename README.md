@@ -8,7 +8,7 @@ Microbiome Data Analysis and Nephele Demo
 1. Slides - [download pdf of slides here](https://proj-bip-prod-publicread.s3.amazonaws.com/training/Microbiome+and+Nephele/Microbiome_RML.pdf)
 
 2. Test input files: for 16S pipelines
-Download files from "How to submit a job" - <https://nephele.niaid.nih.gov/user_guide/>
+    Download files from "How to submit a job" - <https://nephele.niaid.nih.gov/user_guide/>
 
 #### Steps to run Demo.  For more details see: https://nephele.niaid.nih.gov/user_guide/
 1. Request account in nephele server
