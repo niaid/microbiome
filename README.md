@@ -21,7 +21,11 @@ Microbiome Data Analysis and Nephele Demo
 3. Sign into Nephele with the email you registered with, then select **Paired End Fastq**
 4. Select **"Upload files from publicly accessible URL(s)", Upload via FTP** . Provide the following path **ftp://helix.nih.gov/pub/mqbcbb/nepheleFQ/**
 5. Download file from **<ftp://helix.nih.gov/pub/mqbcbb/N2_16S_mapping.xlsx>** then upload to Nephele as the mapping file. 
+6. Follow along to submit a job.  THere is no need to change default parameters for this dataset.   
+7. Expect an email with words "nephele pipeline success"
 
 #### View results
 
-[Download DADA2 example here](https://nephele-prod-testdata.s3.amazonaws.com/dada_example_output.zip)
+[Download DADA2 example output here](https://nephele-prod-testdata.s3.amazonaws.com/dada_example_output.zip)
+
+[Visit this page after receiving email with note that job has completed](https://nephele.niaid.nih.gov/results/f04730b61840)
